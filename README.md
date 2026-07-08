@@ -1,4 +1,4 @@
-# Study Buddy Agent
+# AI Study Assistant
 
 A multi-agent adaptive learning system built with [Google ADK](https://google.github.io/adk-docs/). Give it a topic (and optionally a PDF), and it designs a study plan, tutors you on the material, quizzes you with LLM-as-judge grading, and tracks your mastery over time using spaced repetition.
 
